@@ -74,7 +74,7 @@
 ###
 
 <br clear="both">
-
+<img src="https://raw.githubusercontent.com/ESLAMYASSER-1/ESLAMYASSER-1/output/snake.svg" alt="Snake animation" />
     
 
 ###
