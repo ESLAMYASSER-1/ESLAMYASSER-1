@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eslam Yasser</h1>
 <h3 align="center">AI/ML Engineer | Deep Learning & Computer Vision | LLMs, RAG & AI Systems | MLOps | Building Production-Ready AI Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamyasser-1&label=Profile%20views&color=0e75b6&style=flat" alt="eslamyasser-1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ESLAMYASSER-1&label=Profile%20views&color=0e75b6&style=flat" alt="eslamyasser-1" /> </p>
 
 
 
