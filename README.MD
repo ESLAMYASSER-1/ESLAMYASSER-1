@@ -1,324 +1,82 @@
-# Hi 👋, I'm Eslam Yasser
+# Hi, I'm Eslam Yasser 👋
 
-### AI/ML Engineer · Generative AI · Computer Vision · ML Systems
+### AI/ML Engineer | LLMs, RAG & Agentic AI | Computer Vision | Deployment-First MLOps
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ESLAMYASSER-1&label=Profile%20views&color=0e75b6&style=flat" alt="eslamyasser-1" /> </p>
+[![Profile views](https://komarev.com/ghpvc/?username=ESLAMYASSER-1&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ESLAMYASSER-1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eslamyasser1-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslamyasser1/)
+[![Email](https://img.shields.io/badge/Email-eng.eslam.yasser.1%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:eng.eslam.yasser.1@gmail.com)
 
-I build **production-oriented AI systems** that move beyond notebooks and prototypes into scalable APIs, intelligent applications, and deployed ML services.
+## About Me
 
-My work spans **Generative AI, LLM applications, RAG, Agentic AI, Computer Vision, Recommendation Systems, and ML infrastructure** — with a strong focus on turning models into reliable software systems.
+- 🎓 B.Sc. Artificial Intelligence — Delta University for Science and Technology
+- 🔭 Building production ML systems — LLMs, RAG pipelines, and computer vision with built-in explainability (SHAP, Grad-CAM++)
+- 🌱 Currently deepening: ML system design, MLOps (CI/CD for ML, model versioning), and cloud ML certification
+- 🌍 Based in Al-Dakahliya, Egypt
+- 💼 **Actively looking for an AI/ML Engineer role** — open to remote and on-site opportunities
+- 📫 Reach me at **eng.eslam.yasser.1@gmail.com**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eslamyasser1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:eng.eslam.yasser.1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+## Tech Stack
 
----
+**Languages**
 
-## 🚀 What I Build
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🤖 Generative AI & LLM Systems
+**ML / Deep Learning**
 
-* Retrieval-Augmented Generation (RAG)
-* Graph RAG
-* AI Agents & Agentic AI
-* LLM orchestration and routing
-* Prompt & context engineering
-* Vector search and semantic retrieval
-* LLM inference and serving
-* AI assistants and enterprise copilots
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-### 👁️ Computer Vision
+**LLM / RAG Ecosystem**
 
-* Image classification
-* Object detection
-* Semantic segmentation
-* Medical imaging
-* Face recognition
-* Explainable AI
-* SHAP
-* Grad-CAM++
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-### ⚙️ ML Engineering
+**Vector Databases**
 
-* Model development and evaluation
-* Production inference pipelines
-* FastAPI AI services
-* Model serving
-* Monitoring and observability
-* Dockerized AI applications
-* Cloud deployment
-* Reproducible ML workflows
+![Weaviate](https://img.shields.io/badge/-Weaviate-2A1B5C?style=flat)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat)
+![FAISS](https://img.shields.io/badge/-FAISS-3776AB?style=flat)
 
----
+**Backend / Infra**
 
-# 🧠 Featured Projects
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-## SERVIA — Enterprise AI Customer Experience Platform
+**Databases**
 
-A multi-tenant AI platform combining **LLMs, RAG, dynamic model routing, and scalable backend services** to provide intelligent customer experiences.
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Highlights**
+**Tools**
 
-* Multi-tenant AI SaaS architecture
-* LLM + RAG orchestration
-* Dynamic LLM routing
-* Vector search with Weaviate
-* FastAPI microservices
-* PostgreSQL-backed infrastructure
-* Cloud deployment across AWS/Azure
-* REST APIs for scalable AI services
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Stack**
+## Featured Projects
 
-`Python` `FastAPI` `LLMs` `RAG` `LangChain` `Weaviate` `PostgreSQL` `AWS` `Azure`
+| Project | Description |
+|---|---|
+| [**SERVIA**](https://github.com/ESLAMYASSER-1/SERVIA---Enterprise-AI-Customer-Experience-Platform-LLMs-RAG-SaaS-) | Multi-tenant AI customer support platform — FastAPI + RAG (Weaviate) + vLLM, text & voice input |
+| [**AI Teaching Assistant (RAG)**](https://github.com/ESLAMYASSER-1/AI-Teaching-Assistant-RAG) | RAG backend that turns uploaded documents into a Q&A knowledge base, English + Arabic |
+| [**SparseSeg-PCE**](https://github.com/ESLAMYASSER-1/SparseSeg-PCE-Point-Supervised-Remote-Sensing-Segmentation-with-Partial-Cross-Entropy) | Research project on sparse point-supervised segmentation for remote sensing (U-Net + Partial Cross-Entropy) |
+
+## GitHub Stats
+
+<div align="center">
+
+![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESLAMYASSER-1&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ESLAMYASSER-1&layout=compact&hide_border=true)
+
+</div>
 
 ---
 
-## 🧑‍🏫 Enterprise AI Teaching Assistant
-
-A personalized AI learning platform using **Graph RAG, vector search, caching, and LLMs** to provide intelligent learning assistance.
-
-**Highlights**
-
-* Graph-based retrieval
-* Personalized AI assistance
-* Weaviate vector search
-* Redis caching
-* MongoDB
-* Multi-role architecture
-* Scalable backend services
-* LLM-powered learning workflows
-
-**Stack**
-
-`Python` `FastAPI` `Graph RAG` `LLMs` `Weaviate` `Redis` `MongoDB` `Azure`
-
----
-
-## 👁️ Explainable AI for Glaucoma Detection
-
-A deployment-oriented computer vision system for glaucoma detection with integrated model explainability.
-
-**Highlights**
-
-* EfficientNet
-* ConvNeXt
-* Vision Transformers
-* SHAP
-* Grad-CAM++
-* Real-time inference
-* Explainability integrated directly into the serving pipeline
-
-**Stack**
-
-`Python` `PyTorch` `EfficientNet` `ConvNeXt` `ViT` `SHAP` `Grad-CAM++` `Streamlit`
-
----
-
-## 🧠 Explainable AI for Brain Tumor Diagnosis
-
-Deep-learning system for brain tumor classification with experiment tracking and explainability.
-
-**Highlights**
-
-* PyTorch-based deep learning
-* Medical image classification
-* Explainable predictions
-* Experiment tracking
-* TensorBoard monitoring
-* 98%+ reported accuracy
-
-**Stack**
-
-`Python` `PyTorch` `TorchMetrics` `TensorBoard` `Computer Vision`
-
----
-
-## ✈️ APrien — AI Airport Surveillance & Aviation Communication
-
-AI platform designed around multiple concurrent computer-vision and aviation AI modules.
-
-**Highlights**
-
-* High-throughput FastAPI backend
-* Multiple concurrent AI modules
-* Facial recognition
-* Violence detection
-* Medical emergency detection
-* Low-latency inference
-* MongoDB integration
-* Cloud deployment
-
-**Stack**
-
-`Python` `FastAPI` `PyTorch` `YOLO` `FaceNet` `MongoDB` `AWS` `Azure`
-
----
-
-# 🛠️ Technology Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql,bash" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-`Scikit-learn` · `PyTorch Lightning` · `Hugging Face` · `TorchMetrics`
-
-### Generative AI
-
-`LLMs` · `RAG` · `Graph RAG` · `AI Agents` · `Agentic AI` · `MCP`
-
-`OpenAI` · `Claude` · `Ollama` · `LM Studio`
-
-`LangChain` · `LangGraph`
-
-### Vector Databases
-
-`Weaviate` · `Qdrant` · `FAISS` · `Chroma`
-
-### Backend & APIs
-
-`FastAPI` · `REST APIs` · `Async Python` · `Microservices`
-
-### Databases
-
-`PostgreSQL` · `MongoDB` · `MySQL` · `Redis`
-
-### Cloud & Infrastructure
-
-`AWS` · `Azure` · `Docker`
-
-### Computer Vision
-
-`OpenCV` · `YOLO` · `FaceNet`
-
-`SHAP` · `Grad-CAM++`
-
-### Engineering
-
-`Git` · `GitHub` · `CI/CD` · `Model Evaluation` · `Monitoring` · `Agile/Scrum`
-
----
-
-# 📊 Engineering Experience
-
-### Production AI
-
-* Helped define deployment architecture and model strategy for a **3-person AI engineering team**
-* Contributed to release pipelines for production AI services
-* Helped reduce inference latency by **30%**
-* Helped increase production endpoint availability to **94%+**
-
-### Machine Learning Systems
-
-* Deployed recommendation and AI teaching-assistant systems on AWS
-* Managed ML pipelines from training through serving
-* Improved reported recommendation quality by **35%**
-* Improved reported user engagement by **15%**
-
-### AI Education
-
-* Delivered **500+ hours** of AI/ML and production-engineering training
-* Trained **40+ students**
-* Achieved **90%+ project completion**
-* Conducted ML/DL laboratory sessions for **60+ students**
-
----
-
-# 🎓 Education
-
-**B.Sc. Artificial Intelligence**
-Delta University for Science and Technology · 2026
-
-**GPA: 3.711 / 4.0 — Excellent with Honor**
-
-Relevant areas:
-
-`Machine Learning` · `Deep Learning` · `Cloud Computing` · `Operating Systems` · `Databases`
-
----
-
-# 📚 Certifications & Learning
-
-* Deep Learning Specialization — DeepLearning.AI
-* Machine Learning in Production — DeepLearning.AI
-* Retrieval Augmented Generation — DeepLearning.AI
-* Natural Language Processing — DeepLearning.AI
-* Introduction to Computer Vision and Image Processing — IBM
-* Introduction to DevOps — IBM
-* Introduction to Agile Development & Scrum — IBM
-
----
-
-# 🔬 Current Focus
-
-I'm currently deepening my work in:
-
-```text
-Production LLM Systems
-        ↓
-RAG & Agentic AI
-        ↓
-Model Serving & Inference
-        ↓
-AI Infrastructure
-        ↓
-Evaluation & Observability
-        ↓
-Scalable AI Applications
-```
-
-I'm particularly interested in the engineering problems that appear **after the model works**:
-
-* How do we serve models efficiently?
-* How do we evaluate LLM systems reliably?
-* How do we scale inference?
-* How do we monitor AI behavior?
-* How do we build reliable RAG systems?
-* How do we turn AI prototypes into maintainable products?
-
----
-
-# 📈 GitHub Goals
-
-I'm using this profile to document:
-
-* AI engineering projects
-* ML research experiments
-* Production architectures
-* LLM and RAG systems
-* Computer vision systems
-* Reproducible experiments
-* Open-source contributions
-* Engineering experiments and benchmarks
-
----
-
-# 📫 Let's Connect
-
-I'm open to opportunities and collaborations involving:
-
-**AI Engineering · Machine Learning · Generative AI · Computer Vision · LLM Applications · AI Infrastructure · ML Systems**
-
-📧 **[eng.eslam.yasser.1@gmail.com](mailto:eng.eslam.yasser.1@gmail.com)**
-
-🔗 **LinkedIn:** [linkedin.com/in/eslamyasser1](https://www.linkedin.com/in/eslamyasser1)
-
----
-
-<p align="center">
-  <i>Building AI systems from research → engineering → production.</i>
-</p>
-
+<div align="center">
+💬 Ask me about LLMs, RAG systems, computer vision, or deploying ML to production.
+</div>
