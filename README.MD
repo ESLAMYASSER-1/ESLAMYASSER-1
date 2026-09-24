@@ -69,17 +69,7 @@
 | [**Emotion-Detection-XLM-RoBERTa-Fine-Tuning-Pipeline**](https://github.com/ESLAMYASSER-1/Emotion-Detection-XLM-RoBERTa-Fine-Tuning-Pipeline) | Multilingual emotion classification using FacebookAI/xlm-roberta-base fine-tuned on the Sentiment & Emotion Analysis Dataset (combined_emotion.csv). |
 | [**Explainable-AI-for-Glaucoma-Detection**](https://github.com/ESLAMYASSER-1/Explainable-AI-for-Glaucoma-Detection) | This repository contains a comprehensive system for glaucoma detection from fundus images using deep learning. It features an interactive dashboard built with Gradio that not only provides a diagnosis but also explains the model's decision-making process using various Explainable AI (XAI) techniques. The project includes the full pipeline for data |
 
-## GitHub Stats
-
-<div align="center">
-
-![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESLAMYASSER-1&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ESLAMYASSER-1&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
-<div align="center">
 💬 Ask me about LLMs, RAG systems, computer vision, or deploying ML to production.
-</div>
