@@ -65,6 +65,9 @@
 | [**SERVIA**](https://github.com/ESLAMYASSER-1/SERVIA---Enterprise-AI-Customer-Experience-Platform-LLMs-RAG-SaaS-) | Multi-tenant AI customer support platform — FastAPI + RAG (Weaviate) + vLLM, text & voice input |
 | [**AI Teaching Assistant (RAG)**](https://github.com/ESLAMYASSER-1/AI-Teaching-Assistant-RAG) | RAG backend that turns uploaded documents into a Q&A knowledge base, English + Arabic |
 | [**SparseSeg-PCE**](https://github.com/ESLAMYASSER-1/SparseSeg-PCE-Point-Supervised-Remote-Sensing-Segmentation-with-Partial-Cross-Entropy) | Research project on sparse point-supervised segmentation for remote sensing (U-Net + Partial Cross-Entropy) |
+| [**DeformableGhostNet-Brain-Tumor**](https://github.com/ESLAMYASSER-1/DeformableGhostNet-Brain-Tumor) | system for brain tumor classification and image retrieval using GhostNetV3 with Deformable Convolution, CBIR, and explainable AI |
+| [**Emotion-Detection-XLM-RoBERTa-Fine-Tuning-Pipeline**](https://github.com/ESLAMYASSER-1/Emotion-Detection-XLM-RoBERTa-Fine-Tuning-Pipeline) | Multilingual emotion classification using FacebookAI/xlm-roberta-base fine-tuned on the Sentiment & Emotion Analysis Dataset (combined_emotion.csv). |
+| [**Explainable-AI-for-Glaucoma-Detection**](https://github.com/ESLAMYASSER-1/Explainable-AI-for-Glaucoma-Detection) | This repository contains a comprehensive system for glaucoma detection from fundus images using deep learning. It features an interactive dashboard built with Gradio that not only provides a diagnosis but also explains the model's decision-making process using various Explainable AI (XAI) techniques. The project includes the full pipeline for data |
 
 ## GitHub Stats
 
